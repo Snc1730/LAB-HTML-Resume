@@ -1,3 +1,21 @@
 body {
   background-color: cornflowerblue;
 }
+
+h2 {
+  color: honeydew;
+}
+
+article{
+  padding: 50px;
+}
+
+#articleOne {
+  font-family: 'Courier New', Courier, monospace;
+  border: 6px dotted yellowgreen;
+}
+
+#articleTwo {
+  font-family: 'Times New Roman', Times, serif;
+  border: 5px solid salmon;
+}
